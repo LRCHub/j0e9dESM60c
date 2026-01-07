@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "スターライトパレード",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2026-01-07T13:19:52.076831Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スターライトパレード",
+      "artist": "fine & Knights [天祥院英智 (CV:緑川光)、日々樹渉 (CV:江口拓也)、姫宮桃李 (CV:村瀬歩)、伏見弓弦 (CV:橋本晃太朗)、朱桜司 (CV:土田玲央)、月永レオ (CV:浅沼晋太郎)、瀬名泉 (CV:伊藤マサミ)、朔間凛月 (CV:山下大輝)、鳴上嵐 (CV:北村諒)]",
+      "has_synced": true,
+      "path": "select/01_スターライトパレード_fine_&_Knights_[天祥院英智_(CV_緑川光)、日々樹渉_(CV_江口拓也)、姫宮桃李_(CV_村瀬歩)、伏見弓弦_(CV_橋本晃太朗)、朱桜司_.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スターライトパレード (CAN'T SLEEP FANTASY NIGHT Version)",
+      "artist": "Sekai No Owari",
+      "has_synced": true,
+      "path": "select/02_スターライトパレード_(CAN'T_SLEEP_FANTASY_NIGHT_Version)_Sekai_No_Owari.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スターライトパレード",
+      "artist": "fine & Knights/天祥院 英智(CV.緑川 光)、日々樹 渉(CV.江口 拓也)、姫宮 桃李(CV.村瀬 歩)、伏見 弓弦(CV.橋本 晃太朗)、朱桜 司(CV.土田 玲央)、月永 レオ(CV.浅沼 晋太郎)、瀬名 泉(CV.伊藤 マサミ)、朔間 凛月(CV.山下 大輝)、鳴上 嵐(CV.北村 諒)",
+      "has_synced": true,
+      "path": "select/03_スターライトパレード_fine_&_Knights_天祥院_英智(CV.緑川_光)、日々樹_渉(CV.江口_拓也)、姫宮_桃李(CV.村瀬_歩)、伏見_弓弦(CV.橋本_晃太朗)、朱.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スターライトパレード",
+      "artist": "fine & Knights/天祥院 英智(CV.緑川 光)、日々樹 渉(CV.江口 拓也)、姫宮 桃李(CV.村瀬 歩)、伏見 弓弦(CV.橋本 晃太朗)、朱桜 司(CV.土田 玲央)、月永 レオ(CV.浅沼 晋太郎)、瀬名 泉(CV.伊藤 マサミ)、朔間 凛月(CV.山下 大輝)、鳴上 嵐(CV.北村 諒)",
+      "has_synced": true,
+      "path": "select/04_スターライトパレード_fine_&_Knights_天祥院_英智(CV.緑川_光)、日々樹_渉(CV.江口_拓也)、姫宮_桃李(CV.村瀬_歩)、伏見_弓弦(CV.橋本_晃太朗)、朱.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スターライトパレード -Can't Sleep Fantasy Night Version-",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/05_スターライトパレード_-Can't_Sleep_Fantasy_Night_Version-_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スターライトパレード",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/06_スターライトパレード_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スターライトパレード",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/07_スターライトパレード_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スターライトパレード - Starlight Parade",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/08_スターライトパレード_-_Starlight_Parade_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スターライトパレード",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_スターライトパレード_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
